@@ -1,0 +1,21 @@
+{
+    "name": "lianxi",
+    "version": "1.0.0",
+    "description": "lianix",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "gulp dev",
+        "build": "gulp build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/guojinshu/lianxi.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/guojinshu/lianxi/issues"
+    },
+    "homepage": "https://github.com/guojinshu/lianxi#readme"
+}
